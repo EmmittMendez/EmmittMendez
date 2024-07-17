@@ -1,4 +1,4 @@
-![GitHub Header](resources/header.png)
+![GitHub Header](resources/header2.png)
 
 Hello world, my name is **Emmitt**, I'm a ***Computer Science and Engineering student at [FCC](https://www.cs.buap.mx/)***.
 Currently, learning about competitive programming, machine learning and data science.
